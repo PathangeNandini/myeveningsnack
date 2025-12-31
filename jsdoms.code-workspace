@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../jsdoms"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "full project"
+	}
+}
